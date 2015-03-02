@@ -1,6 +1,6 @@
-###Paragraph vectors DM Model
+Paragraph vectors DM Model
 
-`python test.py training_text testing_text`
+Usage : python test.py training_text testing_text
 
 output are para_vectors_train.txt and para_vectors_test.txt
 
